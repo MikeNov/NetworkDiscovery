@@ -1,0 +1,11 @@
+B:\From work\NetworkDiscovery\NetworkDiscoveryWatcherF\bin\Debug\App.config
+B:\From work\NetworkDiscovery\NetworkDiscoveryWatcherF\bin\Debug\NetworkDiscovery.dll
+B:\From work\NetworkDiscovery\NetworkDiscoveryWatcherF\bin\Debug\NetworkDiscovery.pdb
+B:\From work\NetworkDiscovery\NetworkDiscoveryWatcherF\obj\Debug\NetworkDiscoveryWatcherF.csprojAssemblyReference.cache
+B:\From work\NetworkDiscovery\NetworkDiscoveryWatcherF\obj\Debug\NetworkDiscoveryWatcherF.csproj.CoreCompileInputs.cache
+B:\From work\NetworkDiscovery\NetworkDiscoveryWatcherF\obj\Debug\NetworkDiscoveryWatcherF.csproj.CopyComplete
+B:\From work\NetworkDiscovery\NetworkDiscoveryWatcherF\bin\Debug\NetworkDiscoveryWatcherF.exe.config
+B:\From work\NetworkDiscovery\NetworkDiscoveryWatcherF\bin\Debug\NetworkDiscoveryWatcherF.exe
+B:\From work\NetworkDiscovery\NetworkDiscoveryWatcherF\bin\Debug\NetworkDiscoveryWatcherF.pdb
+B:\From work\NetworkDiscovery\NetworkDiscoveryWatcherF\obj\Debug\NetworkDiscoveryWatcherF.exe
+B:\From work\NetworkDiscovery\NetworkDiscoveryWatcherF\obj\Debug\NetworkDiscoveryWatcherF.pdb

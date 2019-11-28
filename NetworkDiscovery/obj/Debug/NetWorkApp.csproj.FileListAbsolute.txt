@@ -1,0 +1,7 @@
+U:\Repos\NetworkDiscovery\Server\bin\Debug\Server.dll
+U:\Repos\NetworkDiscovery\Server\bin\Debug\Server.pdb
+U:\Repos\NetworkDiscovery\Server\bin\Debug\Shared.dll
+U:\Repos\NetworkDiscovery\Server\bin\Debug\Shared.pdb
+U:\Repos\NetworkDiscovery\Server\obj\Debug\NetWorkApp.csprojResolveAssemblyReference.cache
+U:\Repos\NetworkDiscovery\Server\obj\Debug\Server.dll
+U:\Repos\NetworkDiscovery\Server\obj\Debug\Server.pdb

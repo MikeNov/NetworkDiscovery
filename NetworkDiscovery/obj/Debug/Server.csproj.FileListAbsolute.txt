@@ -1,0 +1,13 @@
+U:\Repos\Client_Server\Client-Server\Cient-Server\Server\bin\Debug\Server.exe.config
+U:\Repos\Client_Server\Client-Server\Cient-Server\Server\bin\Debug\Server.exe
+U:\Repos\Client_Server\Client-Server\Cient-Server\Server\bin\Debug\Server.pdb
+U:\Repos\Client_Server\Client-Server\Cient-Server\Server\obj\Debug\Server.exe
+U:\Repos\Client_Server\Client-Server\Cient-Server\Server\obj\Debug\Server.pdb
+U:\Repos\Client_Server\Client-Server\Cient-Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+U:\Repos\NetWorkDiscovery\Server\obj\Debug\Server.pdb
+U:\Repos\NetWorkDiscovery\Server\bin\Debug\Server.pdb
+U:\Repos\NetWorkDiscovery\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+U:\Repos\NetWorkDiscovery\Server\bin\Debug\Shared.dll
+U:\Repos\NetWorkDiscovery\Server\bin\Debug\Shared.pdb
+U:\Repos\NetworkDiscovery\Server\bin\Debug\Server.dll
+U:\Repos\NetworkDiscovery\Server\obj\Debug\Server.dll

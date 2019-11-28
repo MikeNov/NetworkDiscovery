@@ -1,0 +1,12 @@
+[Bb]in/
+[Oo]bj/
+/[Dd]ll/*
+/[Ii]mages/*
+*.bak
+*.ico
+.vs
+*.dat
+*.licx
+[Dd]ll
+packages/
+*.db

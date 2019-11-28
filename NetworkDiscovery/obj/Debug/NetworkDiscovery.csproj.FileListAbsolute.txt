@@ -1,0 +1,15 @@
+U:\Repos\NetworkDiscovery\Server\obj\Debug\NetworkDiscovery.csprojResolveAssemblyReference.cache
+U:\Repos\NetworkDiscovery\Server\obj\Debug\Server.dll
+U:\Repos\NetworkDiscovery\Server\obj\Debug\Server.pdb
+U:\Repos\NetworkDiscovery\Server\bin\Debug\Server.dll
+U:\Repos\NetworkDiscovery\Server\bin\Debug\Server.pdb
+U:\Repos\NetworkDiscovery\NetworkDiscovery\bin\Debug\NetworkDiscovery.dll
+U:\Repos\NetworkDiscovery\NetworkDiscovery\bin\Debug\NetworkDiscovery.pdb
+U:\Repos\NetworkDiscovery\NetworkDiscovery\obj\Debug\NetworkDiscovery.dll
+U:\Repos\NetworkDiscovery\NetworkDiscovery\obj\Debug\NetworkDiscovery.pdb
+U:\Repos\NetworkDiscovery\NetworkDiscovery\obj\Debug\NetworkDiscovery.csprojResolveAssemblyReference.cache
+B:\From work\NetworkDiscovery\NetworkDiscovery\bin\Debug\NetworkDiscovery.dll
+B:\From work\NetworkDiscovery\NetworkDiscovery\bin\Debug\NetworkDiscovery.pdb
+B:\From work\NetworkDiscovery\NetworkDiscovery\obj\Debug\NetworkDiscovery.csproj.CoreCompileInputs.cache
+B:\From work\NetworkDiscovery\NetworkDiscovery\obj\Debug\NetworkDiscovery.dll
+B:\From work\NetworkDiscovery\NetworkDiscovery\obj\Debug\NetworkDiscovery.pdb
